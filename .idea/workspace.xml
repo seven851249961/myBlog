@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="88927206-5c1c-440b-be30-a429708d9eaa" name="Default Changelist" comment="" />
+    <list default="true" id="88927206-5c1c-440b-be30-a429708d9eaa" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +37,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager">
     <configuration name="CoreApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
@@ -72,17 +74,31 @@
       <workItem from="1577669093822" duration="6587000" />
       <workItem from="1577689306692" duration="303000" />
       <workItem from="1577689618824" duration="167000" />
+      <workItem from="1577689793901" duration="1798000" />
+      <workItem from="1577696251119" duration="926000" />
     </task>
+    <task id="LOCAL-00001" summary="commit">
+      <created>1577689986770</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577689986770</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="457" y="110" key="CommitChangelistDialog2" timestamp="1577689916393">
+    <state x="457" y="110" key="CommitChangelistDialog2" timestamp="1577689982816">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="457" y="110" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1577689916393" />
+    <state x="457" y="110" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1577689982816" />
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1577672033892">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -119,10 +135,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="710" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1577678379846" />
-    <state x="461" y="162" key="SettingsEditor" timestamp="1577669461242">
+    <state x="461" y="162" key="SettingsEditor" timestamp="1577696878313">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1577669461242" />
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1577696878313" />
     <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1577442558253">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -131,10 +147,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="752" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1577676998075" />
-    <state x="634" y="253" width="786" height="600" key="find.popup" timestamp="1577678277960">
+    <state x="634" y="253" width="786" height="600" key="find.popup" timestamp="1577690135529">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="634" y="253" width="786" height="600" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1577678277960" />
+    <state x="634" y="253" width="786" height="600" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1577690135529" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1577669281600">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
